@@ -8,26 +8,26 @@
 1. 註冊 UpStash 帳號。
 2. 創建資料庫。
 
-    ![註冊與登入](docs/images/upstash-1.png)
+    ![註冊與登入](./images/upstash-1.png)
 
-    ![創建資料庫](docs/images/upstash-2.png)
+    ![創建資料庫](./images/upstash-2.png)
 
-    ![選擇伺服器](docs/images/upstash-3.png)
+    ![選擇伺服器](./images/upstash-3.png)
 
 3. 找到 REST API，分別複製 UPSTASH_REDIS_REST_URL 和 UPSTASH_REDIS_REST_TOKEN（⚠切記⚠：不要洩漏 Token!）
 
-    ![複製](docs/images/upstash-4.png)
+    ![複製](./images/upstash-4.png)
 
 4. UPSTASH_REDIS_REST_URL 和 UPSTASH_REDIS_REST_TOKEN 複製到你的同步配置，點擊**檢查可用性**
 
-    ![同步1](docs/images/upstash-5.png)
+    ![同步1](./images/upstash-5.png)
 
     如果沒什麼問題，那就成功了
 
-    ![同步可用性完成](docs/images/upstash-6.png)
+    ![同步可用性完成](./images/upstash-6.png)
 
 5. Success!
 
-    ![好耶~！](docs/images/upstash-7.png)
+    ![好耶~！](./images/upstash-7.png)
 
 
