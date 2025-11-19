@@ -35,11 +35,25 @@ English / [简体中文](./README_CN.md)
 
 </div>
 
-## Sponsor AI API
+## ❤️ Sponsor AI API
 
 <a href='https://302.ai/'>
   <img src="https://github.com/user-attachments/assets/d8c0c513-1e18-4d3b-a2a9-ff3696aec0d4" width="100%" alt="icon"/>
 </a>
+
+## 🥳 為 NextChat iOS 版本上線歡呼！
+
+> [👉 點我立即安裝](https://apps.apple.com/us/app/nextchat-ai/id6743085599)
+
+> [❤️ 原始碼即將公開](https://github.com/ChatGPTNextWeb/NextChat-iOS)
+
+![Github iOS Image](https://github.com/user-attachments/assets/e0aa334f-4c13-4dc9-8310-e3b09fa4b9f3)
+
+## 🫣 NextChat 已支援 MCP ！
+
+> 在進行構建前，請先設定環境變數：ENABLE_MCP=true
+
+<img src="https://github.com/user-attachments/assets/d8851f40-4e36-4335-b1a4-ec1e11488c7e"/>
 
 [302.AI](https://302.ai/) 是一個依用量付費的 AI 應用平台，提供市面上最完整的 AI API 與線上 AI 應用服務。
 
@@ -57,7 +71,11 @@ English / [简体中文](./README_CN.md)
 
 企業版諮詢： **business@nextchat.dev**
 
-<img width="300" src="https://github.com/user-attachments/assets/bb29a11d-ff75-48a8-b1f8-d2d7238cf987">
+## Screenshots
+
+![Settings](./docs/images/settings.png)
+
+![More](./docs/images/more.png)
 
 ## 開始使用
 
